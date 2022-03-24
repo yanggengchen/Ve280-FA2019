@@ -1,0 +1,5 @@
+﻿  ex3.cpp
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab2\Lab2_3\ex3.cpp(59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab2\Lab2_3\ex3.cpp(60): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab2\Lab2_3\ex3.cpp(61): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Lab2_3.vcxproj -> D:\杨庚辰\大学\Summer 2020\Ve280\Lab2\Lab2_3\Debug\Lab2_3.exe
