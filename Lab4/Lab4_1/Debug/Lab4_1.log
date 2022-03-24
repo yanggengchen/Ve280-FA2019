@@ -1,0 +1,4 @@
+﻿  ex1.cpp
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab4\Lab4_1\ex1.cpp(118): warning C4101: “err1”: 未引用的局部变量
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab4\Lab4_1\ex1.cpp(129): warning C4101: “err2”: 未引用的局部变量
+  Lab4_1.vcxproj -> D:\杨庚辰\大学\Summer 2020\Ve280\Lab4\Lab4_1\Debug\Lab4_1.exe
