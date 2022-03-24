@@ -1,0 +1,4 @@
+﻿  simpletest.cpp
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab9\Lab9_1\mylist_impl.h(114): warning C4305: “return”: 从“int”到“bool”截断
+D:\杨庚辰\大学\Summer 2020\Ve280\Lab9\Lab9_1\mylist_impl.h(121): warning C4305: “return”: 从“int”到“bool”截断
+  Lab9_1.vcxproj -> D:\杨庚辰\大学\Summer 2020\Ve280\Lab9\Lab9_1\Debug\Lab9_1.exe
