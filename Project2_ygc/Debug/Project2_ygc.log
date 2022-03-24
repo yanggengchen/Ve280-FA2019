@@ -1,0 +1,15 @@
+﻿  p2.cpp
+  simulation.cpp
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(249): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(287): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(294): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(313): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(321): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(348): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(366): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(373): warning C4018: “<”: 有符号/无符号不匹配
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(398): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\simulation.cpp(35): warning C4715: “find_user”: 不是所有的控件路径都返回值
+  Project2_ygc.vcxproj -> D:\杨庚辰\大学\Summer 2020\Ve280\Project2\Project2_ygc\Debug\Project2_ygc.exe
